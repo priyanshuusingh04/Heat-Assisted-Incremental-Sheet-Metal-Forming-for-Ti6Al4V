@@ -95,8 +95,8 @@ The work explores **tool design, toolpath generation, thermal-mechanical couplin
 - Experimental validation of sine law predictions under elevated temperatures.  
 
 ---
-```plain text
 ## 📂 Repository Contents
+```plain text
 ├── 📄 Report/ # Full project report (PDF/Word)
 ├── 🛠️ SolidWorks/ # CAD models of tools (20°, 45°, 60°)
 ├── 🎯 Fusion360_Toolpaths/ # Spiral toolpath G-code and trajectory files
